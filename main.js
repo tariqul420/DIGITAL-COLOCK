@@ -1,3 +1,7 @@
+// CODEPAN LINK
+// https://codepen.io/tariqul420/pen/LYowJBK?editors=1000
+
+
 function clock() {
     let hour = document.getElementById('hour');
     let minute = document.getElementById('minute');
